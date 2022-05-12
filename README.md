@@ -17,6 +17,9 @@ I'm planning to create and distribute Minecraft datapacks here.
 - [Big Number Calculator](https://github.com/haiiro2gou/Big-Number-Calculator)
 - [Ashen's RPG Core](https://github.com/haiiro2gou/Ashen-RPG-Core) (WIP)
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=haiiro2gou&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haiiro2gou&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
