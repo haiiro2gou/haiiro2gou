@@ -6,9 +6,9 @@
 
 ### 👋 自己紹介 (Self-Introduction)
 みなさんこんにちは。「はいいろ。」と申します。  
-暇つぶしとしてデータパックを作成し、ここで配布したいと思っています。
+暇つぶしとしてデータパックを製作し、ここで配布したいと思っています。
 至らない点が多々見受けられると思いますが、優しく指摘していただけると幸いです。
-(JavaやC++、Pythonを学んでいるのでいつかmodなども配布するかもしれません)
+(JavaやC++、Pythonを学んでいるのでいつかmodなども製作するかもしれません)
 
 Hi there, My name is "Ashen" ("はいいろ。" in Japanese).  
 I'm planning to create and distribute Minecraft datapacks here.
