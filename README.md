@@ -15,8 +15,13 @@ I'm planning to create and distribute Minecraft datapacks here.
 
 ### 🔭 製作物 (My Work)
 - [Big Number Calculator](https://github.com/haiiro2gou/Big-Number-Calculator)
-- [Ashen's RPG Core](https://github.com/haiiro2gou/Ashen-RPG-Core) (WIP)
-- [TSB-Extended](https://github.com/haiiro2gou/TSB-haiiro-addon)
+- [Remoni](https://github.com/haiiro2gou/Remoni) (WIP)
+- [TSB-Extended](https://github.com/haiiro2gou/TSB-Extended)
+- [TSB-Patcher](https://github.com/haiiro2gou/TSB-Patcher)
+
+- [TSB-Random-Number-Calculator](https://github.com/haiiro2gou/TSB-Random-Number-Calculator)
+- [Wynn-API-Grabber](https://github.com/haiiro2gou/Wynn-API-Grabber) (WIP)
+- [benchmark-sort](https://github.com/haiiro2gou/benchmark-sort)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=haiiro2gou&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haiiro2gou&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
