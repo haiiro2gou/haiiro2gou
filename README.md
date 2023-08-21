@@ -7,7 +7,7 @@
 至らない点が多々見受けられると思いますが、優しく指摘していただけると幸いです。
 (JavaやC++、Pythonを学んでいるのでいつかmodなども製作するかもしれません)
 
-Hi there, My name is "Ashen" ("はいいろ" in Japanese).  
+Hi there, My name is Ashen (「はいいろ」 in Japanese).  
 I'm planning to create and distribute Minecraft datapacks here.
 
 #### Organization
