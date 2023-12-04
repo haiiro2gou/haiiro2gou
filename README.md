@@ -22,12 +22,13 @@ I'm planning to create and distribute Minecraft datapacks here.
 - [TSB-Patcher](https://github.com/haiiro2gou/TSB-Patcher)
 - [Command Caster](https://github.com/haiiro2gou/Command-Caster) (:sparkles: NEW!)
 - [Remoni](https://github.com/haiiro2gou/Remoni) (:construction_worker: WIP)
-- [Big Number Calculator](https://github.com/haiiro2gou/Big-Number-Calculator)
+- [Gazer Placer](https://github.com/haiiro2gou/Gazer-Placer) (:construction_worker: WIP)
+- ~~[Big Number Calculator](https://github.com/haiiro2gou/Big-Number-Calculator)~~ (:construction: Suspended)
 
 #### その他
 
 - [MC Server Controller](https://github.com/haiiro2gou/mcsrvctl) (:sparkles: NEW!)
-- [Server Builder](https://github.com/haiiro2gou/server_builder) (:sparkles: NEW!)
+- [Server Builder](https://github.com/haiiro2gou/server_builder)
 - [TSB-Random-Number-Calculator](https://github.com/haiiro2gou/TSB-Random-Number-Calculator)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=haiiro2gou&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
