@@ -20,14 +20,14 @@ I'm planning to create and distribute Minecraft datapacks here.
 
 - [TSB-Extended](https://github.com/haiiro2gou/TSB-Extended)
 - [TSB-Patcher](https://github.com/haiiro2gou/TSB-Patcher)
-- [Command Caster](https://github.com/haiiro2gou/Command-Caster) (:sparkles: NEW!)
-- [Remoni](https://github.com/haiiro2gou/Remoni) (:construction_worker: WIP)
-- [Gazer Placer](https://github.com/haiiro2gou/Gazer-Placer) (:construction_worker: WIP)
-- ~~[Big Number Calculator](https://github.com/haiiro2gou/Big-Number-Calculator)~~ (:construction: Suspended)
+- [Command Caster](https://github.com/haiiro2gou/Command-Caster) (✨ NEW!)
+- [Remoni](https://github.com/haiiro2gou/Remoni) (👷 WIP)
+- [Gazer Placer](https://github.com/haiiro2gou/Gazer-Placer) (👷 WIP)
+- ~~[Big Number Calculator](https://github.com/haiiro2gou/Big-Number-Calculator)~~ (🚧 Suspended)
 
 #### その他
 
-- [MC Server Controller](https://github.com/haiiro2gou/mcsrvctl) (:sparkles: NEW!)
+- [MC Server Controller](https://github.com/haiiro2gou/mcsrvctl) (✨ NEW!)
 - [Server Builder](https://github.com/haiiro2gou/server_builder)
 - [TSB-Random-Number-Calculator](https://github.com/haiiro2gou/TSB-Random-Number-Calculator)
 
