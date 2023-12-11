@@ -20,14 +20,15 @@ I'm planning to create and distribute Minecraft datapacks here.
 
 - [TSB-Extended](https://github.com/haiiro2gou/TSB-Extended)
 - [TSB-Patcher](https://github.com/haiiro2gou/TSB-Patcher)
-- [Command Caster](https://github.com/haiiro2gou/Command-Caster) (✨ NEW!)
+- [Command Caster](https://github.com/haiiro2gou/Command-Caster)
+- [Gazer Placer](https://github.com/haiiro2gou/Gazer-Placer) (✨ NEW!)
+- [Ashen-Lib](https://github.com/haiiro2gou/Ashen-Lib) (👷 WIP)
 - [Remoni](https://github.com/haiiro2gou/Remoni) (👷 WIP)
-- [Gazer Placer](https://github.com/haiiro2gou/Gazer-Placer) (👷 WIP)
 - ~~[Big Number Calculator](https://github.com/haiiro2gou/Big-Number-Calculator)~~ (🚧 Suspended)
 
 #### その他
 
-- [MC Server Controller](https://github.com/haiiro2gou/mcsrvctl) (✨ NEW!)
+- [MC Server Controller](https://github.com/haiiro2gou/mcsrvctl)
 - [Server Builder](https://github.com/haiiro2gou/server_builder)
 - [TSB-Random-Number-Calculator](https://github.com/haiiro2gou/TSB-Random-Number-Calculator)
 
@@ -37,7 +38,7 @@ I'm planning to create and distribute Minecraft datapacks here.
 ### 💬 各種リンク (Contact)
 
 **Discord: haiiro2gou**  
-**Twitter: [@blanoir3298](https://twitter.com/blanoir3298)**  
+**X (Twitter): [@blanoir3298](https://x.com/blanoir3298)**  
 **Youtube: [はいいろ。](https://www.youtube.com/channel/UC4HoswwsCjgVmZlmhZ0Dpbg)**
 
 <!--- 
