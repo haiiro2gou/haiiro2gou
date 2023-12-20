@@ -3,16 +3,16 @@
 ### 👋 自己紹介 (Self-Introduction)
 
 みなさんこんにちは。「はいいろ」と申します。  
-暇つぶしとしてデータパックを製作し、ここで配布したいと思っています。
-至らない点が多々見受けられると思いますが、優しく指摘していただけると幸いです。
+暇つぶしとしてデータパックを製作し、ここで配布したいと思っています。  
+至らない点が多々見受けられると思いますが、優しく指摘していただけると幸いです。  
 (JavaやC++、Pythonを学んでいるのでいつかmodなども製作するかもしれません)
-
-2023/12/20 追記
-Contributorとして、配布マップ「[TheSkyBlessing](https://ProjectTSB/TheSkyBlessing)」の制作者になりました。  
-こちらの方も応援よろしくお願いします。
 
 Hi there, My name is Ashen (or haiiro2gou).  
 I'm planning to create and distribute Minecraft datapacks here.
+
+> 2023/12/20 追記  
+> Contributorとして、配布マップ「[TheSkyBlessing](https://ProjectTSB/TheSkyBlessing)」の制作者になりました。  
+> こちらの方も応援よろしくお願いします。
 
 #### Organization
 
