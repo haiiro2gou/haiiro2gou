@@ -1,5 +1,10 @@
 ## はいいろのコマンド研究所 (Ashen's MC Command Lab)
 
+![views](https://komarev.com/ghpvc/?username=haiiro2gou)
+![followers](https://img.shields.io/github/followers/haiiro2gou?label=Followers&logo=github)
+[![qiita posts](https://qiita-badge.apiapi.app/s/haiiro2gou/posts.svg)](http://qiita.com/haiiro2gou)
+[![qiita contributions](https://qiita-badge.apiapi.app/s/haiiro2gou/contributions.svg)](http://qiita.com/haiiro2gou)
+
 ### 👋 自己紹介 (Self-Introduction)
 
 みなさんこんにちは。「はいいろ」と申します。  
@@ -10,13 +15,10 @@
 Hi there, My name is Ashen (or haiiro2gou).  
 I'm planning to create and distribute Minecraft datapacks here.
 
-> 2023/12/20 追記  
-> Contributorとして、配布マップ「[TheSkyBlessing](https://ProjectTSB/TheSkyBlessing)」の制作者になりました。  
-> こちらの方も応援よろしくお願いします。
-
 #### Organization
 
 - [The Chicken Empire (大鶏帝国研究所)](https://github.com/The-Chicken-Empire)
+- [Project TSB](https://github.com/ProjectTSB)
 
 ### 🔭 製作物 (My Work)
 
@@ -37,8 +39,14 @@ I'm planning to create and distribute Minecraft datapacks here.
 - [TSB-Random-Number-Calculator](https://github.com/haiiro2gou/TSB-Random-Number-Calculator)
 - [Resourcepack-Updater](https://github.com:haiiro2gou/Resourcepack-Updater) (✨ NEW!)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=haiiro2gou&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haiiro2gou&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![stats](https://github-readme-stats.vercel.app/api?username=haiiro2gou&show_icons=true&theme=algolia)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haiiro2gou&layout=compact&theme=algolia)
+
+![details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haiiro2gou&theme=algolia)
+![repo languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haiiro2gou&theme=algolia)
+![commit languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haiiro2gou&theme=algolia)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=haiiro2gou&theme=algolia)
 
 ### 💬 各種リンク (Contact)
 
