@@ -1,23 +1,13 @@
-## はいいろのコマンド研究所 (Ashen's MC Command Lab)
+## はいいろのマイクラ研究所 (haiiro's Minecraft Lab)
 
 ![views](https://komarev.com/ghpvc/?username=haiiro2gou)
 ![followers](https://img.shields.io/github/followers/haiiro2gou?label=Followers&logo=github)
 [![qiita posts](https://qiita-badge.apiapi.app/s/haiiro2gou/posts.svg)](http://qiita.com/haiiro2gou)
 [![qiita contributions](https://qiita-badge.apiapi.app/s/haiiro2gou/contributions.svg)](http://qiita.com/haiiro2gou)
 
-### 👋 自己紹介 (Self-Introduction)
-
-みなさんこんにちは。「はいいろ」と申します。  
-暇つぶしとしてデータパックを製作し、ここで配布したいと思っています。  
-至らない点が多々見受けられると思いますが、優しく指摘していただけると幸いです。  
-(JavaやC++、Pythonを学んでいるのでいつかmodなども製作するかもしれません)
-
-Hi there, My name is Ashen (or haiiro2gou).  
-I'm planning to create and distribute Minecraft datapacks here.
-
 #### Organization
 
-- [The Chicken Empire (大鶏帝国研究所)](https://github.com/The-Chicken-Empire)
+- [The Chicken Empire](https://github.com/The-Chicken-Empire)
 - [Project TSB](https://github.com/ProjectTSB)
 
 ### 🔭 製作物 (My Work)
